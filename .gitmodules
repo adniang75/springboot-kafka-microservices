@@ -1,0 +1,12 @@
+[submodule "base-domains"]
+	path = base-domains
+	url = ./base-domains
+[submodule "email-service"]
+	path = email-service
+	url = ./email-service
+[submodule "order-service"]
+	path = order-service
+	url = ./order-service
+[submodule "stock-service"]
+	path = stock-service
+	url = ./stock-service
